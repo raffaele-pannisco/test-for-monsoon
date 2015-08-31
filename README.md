@@ -2,6 +2,7 @@
 
 Technical test requirements
 -magento 1.9 fresh installation with samples data
+
 Tasks:
 1-category women->newarrivals must have the catalog category view image
 under the navigation menu and on top of the other elements(layered
